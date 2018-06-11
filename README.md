@@ -67,7 +67,7 @@ Priority List
 
 Top Priorities
 --------------
-1. Finish marking all markers in the Agisoft Project PUT NAME OF FILE HERE.
+1. Finish marking all markers in the Agisoft Project ChalkCliffs_20180509.
 
 2. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/)
 
