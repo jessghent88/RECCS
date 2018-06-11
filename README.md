@@ -87,6 +87,8 @@ Top Priorities
 
 4. Add zoom links to the meeting at WHOI
 
+5. Watch WHOI zoom casts per Katy
+
 Secondary Priorities
 --------------------
 
