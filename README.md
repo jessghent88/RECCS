@@ -57,13 +57,21 @@ Week 2: June 11-15th
 
     b. Create repository with this summer's notes in it on GitHub and push this file to GitHub. Command line instructions are [here](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/).
 
-    c. Introduction to the computer you'll be working on and where the files are.
+    c. Introduction to the computer I'll be working on and where the files are.
 
     d. Introduction to Agisoft PhotoScan.
 
-    e.  Do the [Commonmark Markdown Tutorial](http://commonmark.org/help/).
-    
-    f. Upload photos from 20180608
+    e. Do the [Commonmark Markdown Tutorial](http://commonmark.org/help/).
+
+    f. Upload photos from ChalkCliffs_20180608.
+
+    g. Watch the [Cultural Heritage Imaging video tutorials](https://vimeo.com/channels/practicalphotogrammetry) on best practice for taking images.
+
+    h. Agisoft exercise using office items.
+
+    i. Move computer. Set up at my desk.
+
+    j. Meet with Katy and Greg. Create a plan for this week.
 
 
 Priority List
@@ -75,7 +83,7 @@ Top Priorities
 
 2. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/)
 
-3. Practice making Agisoft models using scale bars. Refer to the [3D Model Reconstruction](http://www.agisoft.com/pdf/PS_1.1%20-Tutorial%20(BL)%20-%203D-model.pdf), the [Scale Bar Placement](http://www.agisoft.com/pdf/tips_and_tricks/CHI_Calibrated_Scale_Bar_Placement_and_Processing.pdf), and the [Cultural Heritage Imaging video tutorials](https://vimeo.com/channels/practicalphotogrammetry) on best practice for taking images.
+3. Practice making Agisoft models using scale bars. Refer to the [3D Model Reconstruction](http://www.agisoft.com/pdf/PS_1.1%20-Tutorial%20(BL)%20-%203D-model.pdf) and the [Scale Bar Placement](http://www.agisoft.com/pdf/tips_and_tricks/CHI_Calibrated_Scale_Bar_Placement_and_Processing.pdf).
 
 4. Add zoom links to the meeting at WHOI
 
