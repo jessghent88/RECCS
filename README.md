@@ -61,6 +61,8 @@ Week 2: June 11-15th
 
     d. Introduction to Agisoft PhotoScan.
 
+    e.  Do the [Commonmark Markdown Tutorial](http://commonmark.org/help/).
+
 
 Priority List
 =============
@@ -71,13 +73,9 @@ Top Priorities
 
 2. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/)
 
-3. Do the [Commonmark Markdown Tutorial](http://commonmark.org/help/).
+3. Practice making Agisoft models using scale bars. Refer to the [3D Model Reconstruction](http://www.agisoft.com/pdf/PS_1.1%20-Tutorial%20(BL)%20-%203D-model.pdf), the [Scale Bar Placement](http://www.agisoft.com/pdf/tips_and_tricks/CHI_Calibrated_Scale_Bar_Placement_and_Processing.pdf), and the [Cultural Heritage Imaging video tutorials](https://vimeo.com/channels/practicalphotogrammetry) on best practice for taking images.
 
-4. Practice making Agisoft models using scale bars. Refer to the [3D Model Reconstruction](http://www.agisoft.com/pdf/PS_1.1%20-Tutorial%20(BL)%20-%203D-model.pdf), the [Scale Bar Placement](http://www.agisoft.com/pdf/tips_and_tricks/CHI_Calibrated_Scale_Bar_Placement_and_Processing.pdf), and the [Cultural Heritage Imaging video tutorials](https://vimeo.com/channels/practicalphotogrammetry) on best practice for taking images.
-
-5. FIX agisoft 3d model URL and name of file.
-
-6. Add zoom links to the meeting at WHOI
+4. Add zoom links to the meeting at WHOI
 
 Secondary Priorities
 --------------------
