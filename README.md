@@ -62,6 +62,8 @@ Week 2: June 11-15th
     d. Introduction to Agisoft PhotoScan.
 
     e.  Do the [Commonmark Markdown Tutorial](http://commonmark.org/help/).
+    
+    f. Upload photos from 20180608
 
 
 Priority List
