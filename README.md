@@ -77,7 +77,9 @@ Week 2: June 11-15th
 
     a. Watched Zoom webcasts. Coastal Change at Sandwich, Mass and Sparse Cloud Editing & Optimization.
 
-    b. Marked markers in Agisoft from ChalkCliffs_20180509. Completed DT1-DT5, RD1-RD2, RD5-RD7.
+    b. Completed markers in Agisoft from ChalkCliffs_20180509.
+
+    c. Read Sketchfab model blog post.
 
 
 Priority List
@@ -85,15 +87,15 @@ Priority List
 
 Top Priorities
 --------------
-1. Finish marking all markers in the Agisoft Project ChalkCliffs_20180509.
+1. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
 
-2. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/)
+2. Practice making Agisoft models using scale bars. Refer to the [3D Model Reconstruction](http://www.agisoft.com/pdf/PS_1.1%20-Tutorial%20(BL)%20-%203D-model.pdf) and the [Scale Bar Placement](http://www.agisoft.com/pdf/tips_and_tricks/CHI_Calibrated_Scale_Bar_Placement_and_Processing.pdf).
 
-3. Practice making Agisoft models using scale bars. Refer to the [3D Model Reconstruction](http://www.agisoft.com/pdf/PS_1.1%20-Tutorial%20(BL)%20-%203D-model.pdf) and the [Scale Bar Placement](http://www.agisoft.com/pdf/tips_and_tricks/CHI_Calibrated_Scale_Bar_Placement_and_Processing.pdf).
+3. Participate in Greg's Thursday meeting with colleagues.
 
-4. Read Sketchfab model blog post.
+4. Export practice Agisoft model to a Sketchfab model for RECCS blog.
 
-5. Export practice Agisoft model to a Sketchfab model for RECCS blog.
+5. Watch Wednesday's Zoom webcasts.
 
 Secondary Priorities
 --------------------
