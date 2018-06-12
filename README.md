@@ -53,25 +53,31 @@ Week 2: June 11-15th
 
 1. Monday
 
-    a. Get set up on GitHub and GitKraken.
+    a. Got set up on GitHub and GitKraken.
 
-    b. Create repository with this summer's notes in it on GitHub and push this file to GitHub. Command line instructions are [here](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/).
+    b. Created repository with this summer's notes in it on GitHub and pushed this file to GitHub. Command line instructions are [here](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/).
 
     c. Introduction to the computer I'll be working on and where the files are.
 
     d. Introduction to Agisoft PhotoScan.
 
-    e. Do the [Commonmark Markdown Tutorial](http://commonmark.org/help/).
+    e. Did the [Commonmark Markdown Tutorial](http://commonmark.org/help/).
 
-    f. Upload photos from ChalkCliffs_20180608.
+    f. Uploaded photos from ChalkCliffs_20180608.
 
-    g. Watch the [Cultural Heritage Imaging video tutorials](https://vimeo.com/channels/practicalphotogrammetry) on best practice for taking images.
+    g. Watched the [Cultural Heritage Imaging video tutorials](https://vimeo.com/channels/practicalphotogrammetry) on best practice for taking images.
 
     h. Agisoft exercise using office items.
 
-    i. Move computer. Set up at my desk.
+    i. Moved computer. Set up at my desk.
 
-    j. Meet with Katy and Greg. Create a plan for this week.
+    j. Met with Katy and Greg. Created a plan for this week.
+
+2. Tuesday
+
+    a. Watched Zoom webcasts. Coastal Change at Sandwich, Mass and Sparse Cloud Editing & Optimization.
+
+    b. Marked markers in Agisoft from ChalkCliffs_20180509. Completed DT1-DT5, RD1-RD2, RD5-RD7.
 
 
 Priority List
@@ -85,9 +91,9 @@ Top Priorities
 
 3. Practice making Agisoft models using scale bars. Refer to the [3D Model Reconstruction](http://www.agisoft.com/pdf/PS_1.1%20-Tutorial%20(BL)%20-%203D-model.pdf) and the [Scale Bar Placement](http://www.agisoft.com/pdf/tips_and_tricks/CHI_Calibrated_Scale_Bar_Placement_and_Processing.pdf).
 
-4. Add zoom links to the meeting at WHOI
+4. Read Sketchfab model blog post.
 
-5. Watch WHOI zoom casts per Katy
+5. Export practice Agisoft model to a Sketchfab model for RECCS blog.
 
 Secondary Priorities
 --------------------
