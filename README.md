@@ -128,13 +128,15 @@ Week 2: June 11-15th
 
         D. Lunch with speaker Lesley Smith.
 
-    b. Took photos for and created practice Agisoft model.
+    b. Took photos for and created practice Agisoft models.
 
-        A. No scale bar, no masking, KPL 40000, TPL 1000, no texture. Model was terrible.
+        A. No scale bar, no masking, KPL 40000, TPL 1000, no texture. Dino model was terrible.
+
+        B. Ruler for scale bar, no masking, KPL 60000, TPL 0, no texture. Clothespin didn't show up but ruler was acceptable.
 
     c. Worked through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
 
-    d. Watched Zoom webcasts. Change Detection in Mountainous Terrain; New Tools in PhotoScan.
+    d. Watched Zoom webcasts. New Tools in PhotoScan.
 
 
 Priority List
