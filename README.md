@@ -46,7 +46,42 @@ Weekly Activities
 
 Week 1: June 4-8, 2018
 ----------------------
-Training with RECCS Staff
+
+1. Monday (@ CIRES)
+
+    a. Program overview.
+
+    b. Mentor Lunch.
+
+    c. Harassment training.
+
+    d. Group and individual photos.
+
+2. Tuesday (@ CIRES)
+
+    a. Communication workshop.
+
+    b. Ethics Discussion.
+
+    c. Graduate student presentations.
+
+    d. Lunch with RECCS alum.
+
+    e. NOAA tour.
+
+3. Wednesday - Friday
+
+    a. CU Mountain Research Station field trip.
+
+        A. Geology hike at NCAR with Suzanne Anderson (INSTAAR).
+
+        B. Team building at MRS with Deb Kulcsar.
+
+        C. Field activity with Robbie and Jen (forest ecology and hydrology).
+
+        D. Communication workshop.
+
+        E. Forest & fire ecology hikes with Jenny.
 
 Week 2: June 11-15th
 --------------------
@@ -75,11 +110,31 @@ Week 2: June 11-15th
 
 2. Tuesday
 
-    a. Watched Zoom webcasts. Coastal Change at Sandwich, Mass and Sparse Cloud Editing & Optimization.
+    a. Watched Zoom webcasts. Coastal Change at Sandwich, Mass; Sparse Cloud Editing & Optimization.
 
     b. Completed markers in Agisoft from ChalkCliffs_20180509.
 
     c. Read Sketchfab model blog post.
+
+3. Wednesday
+
+    a. Training with RECCS staff.
+
+        A. Group check-in.
+
+        B. Communication workshop.
+
+        C. Individual check-in.
+
+        D. Lunch with speaker Lesley Smith.
+
+    b. Took photos for and created practice Agisoft model.
+
+        A. No scale bar, no masking, KPL 40000, TPL 1000, no texture. Model was terrible.
+
+    c. Worked through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
+
+    d. Watched Zoom webcasts. Change Detection in Mountainous Terrain; New Tools in PhotoScan.
 
 
 Priority List
@@ -94,8 +149,6 @@ Top Priorities
 3. Participate in Greg's Thursday meeting with colleagues.
 
 4. Export practice Agisoft model to a Sketchfab model for RECCS blog.
-
-5. Watch Wednesday's Zoom webcasts.
 
 Secondary Priorities
 --------------------
