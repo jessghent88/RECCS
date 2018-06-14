@@ -138,6 +138,12 @@ Week 2: June 11-15th
 
     d. Watched Zoom webcasts. New Tools in PhotoScan.
 
+4. Thursday
+
+    a. Worked through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/). Completed Lesson 3 'Creating Things' from The Unix Shell.
+
+    b. Biweekly meeting with Greg and team. Shared my Agisoft model attempts.
+
 
 Priority List
 =============
