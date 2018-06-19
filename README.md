@@ -83,8 +83,8 @@ Week 1: June 4-8, 2018
 
         E. Forest & fire ecology hikes with Jenny.
 
-Week 2: June 11-15th
---------------------
+Week 2: June 11-15
+------------------
 
 1. Monday
 
@@ -144,6 +144,33 @@ Week 2: June 11-15th
 
     b. Biweekly meeting with Greg and team. Shared my Agisoft model attempts.
 
+5. Friday
+
+    a. Made successful Agisoft model using the [3D Model Reconstruction](http://www.agisoft.com/pdf/PS_1.1%20-Tutorial%20(BL)%20-%203D-model.pdf) and the [Scale Bar Placement](http://www.agisoft.com/pdf/tips_and_tricks/CHI_Calibrated_Scale_Bar_Placement_and_Processing.pdf).
+
+    b. Worked on Command Line Lesson 4 from [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
+
+    c. Covered conference material with Katy. Corrected settings in Agisoft and on drone camera.
+
+    d. Attempted to export practice Agisoft model to Sketchfab for RECCS blog. Could not fix some Halibut settings that prevented export.
+
+Week 3: June 18-22
+------------------
+
+1. Monday
+
+    a. Field day at Chalk Cliffs. Completed 10 flights. 6am-5pm.
+
+2. Tuesday
+
+    a. Worked on elevator speech for RECCS.
+
+    b. Separated ChalkCliffs_20180509 images into folders f01-f06 for separate flights.
+
+    c. Updated README.md.
+
+    d. Uploaded renamed ChalkCliffs_20180618 images into Agisoft. Checked image quality. Aligned photos.
+
 
 Priority List
 =============
@@ -152,15 +179,13 @@ Top Priorities
 --------------
 1. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
 
-2. Practice making Agisoft models using scale bars. Refer to the [3D Model Reconstruction](http://www.agisoft.com/pdf/PS_1.1%20-Tutorial%20(BL)%20-%203D-model.pdf) and the [Scale Bar Placement](http://www.agisoft.com/pdf/tips_and_tricks/CHI_Calibrated_Scale_Bar_Placement_and_Processing.pdf).
+2. Export practice Agisoft model to a Sketchfab model for RECCS blog.
 
-3. Participate in Greg's Thursday meeting with colleagues.
+3. Ask F'18 professors about moving exams to attend AGU.
 
-4. Export practice Agisoft model to a Sketchfab model for RECCS blog.
+4. Construct and write about proposed sets of Ground Control Points. Write down ideas about importance of various elements of GCP selection.
 
 Secondary Priorities
 --------------------
 
-1. Construct and write about proposed sets of Ground Control Points.
-
-2. Conduct literature review related to uncertainty analysis in Structure from Motion. A good place to start is to use Web of Science to look at the papers cited by and that have cited the Reitman and Cook papers.
+1. Conduct literature review related to uncertainty analysis in Structure from Motion. A good place to start is to use Web of Science to look at the papers cited by and that have cited the Reitman and Cook papers.
