@@ -185,7 +185,7 @@ Week 3: June 18-22
 
         E. Participated in cohort's research prep.
 
-    b. Began marking ChalkCliffs_20160618 images.
+    b. Began marking ChalkCliffs_20180618 images.
 
 4. Thursday
 
@@ -198,6 +198,12 @@ Week 3: June 18-22
     c. Weekly meeting with Katy and Greg. Discussed my considerations and many factors regarding model accuracy.
 
     d. Searched for research papers on photogrammetry program comparisons.
+
+5. Friday
+
+    a. Marked ChalkCliffs_20180618 images.
+
+    b. Watched Katy's practice iEMS talk.
 
 
 Priority List
