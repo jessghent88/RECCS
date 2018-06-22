@@ -213,6 +213,10 @@ Top Priorities
 
 4. Construct and write about proposed sets of Ground Control Points. Write down ideas about importance of various elements of GCP selection.
 
+5. Finish June 18th markers and build dense cloud.
+
+6. Re read Reitman, Cook, and Westoby papers. Look at PDF of photogrammetry.
+
 Secondary Priorities
 --------------------
 
