@@ -122,7 +122,7 @@ Week 2: June 11-15
 
         A. Group check-in.
 
-        B. Communication workshop.
+        B. Communication workshop - Elevator speeches.
 
         C. Individual check-in.
 
@@ -170,6 +170,34 @@ Week 3: June 18-22
     c. Updated README.md.
 
     d. Uploaded renamed ChalkCliffs_20180618 images into Agisoft. Checked image quality. Aligned photos.
+
+3. Wednesday
+
+    a. Training with RECCS staff.
+
+        A. Group check-in.
+
+        B. Communication workshop - Titles and research questions.
+
+        C. Individual check-in.
+
+        D. Lunch with speaker.
+
+        E. Participated in cohort's research prep.
+
+    b. Began marking ChalkCliffs_20160618 images.
+
+4. Thursday
+
+    a. Biweekly meeting at SEEC. Shared insights from field day regarding GCP impacts.
+
+    b. Emailed Cheryl Hoke (letter of rec) with RECCS updates.
+
+    b. Brainstormed research considerations
+
+    c. Weekly meeting with Katy and Greg. Discussed my considerations and many factors regarding model accuracy.
+
+    d. Searched for research papers on photogrammetry program comparisons.
 
 
 Priority List
