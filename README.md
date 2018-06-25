@@ -193,11 +193,11 @@ Week 3: June 18-22
 
     b. Emailed Cheryl Hoke (letter of rec) with RECCS updates.
 
-    b. Brainstormed research considerations
+    c. Brainstormed research considerations
 
-    c. Weekly meeting with Katy and Greg. Discussed my considerations and many factors regarding model accuracy.
+    d. Weekly meeting with Katy and Greg. Discussed my considerations and many factors regarding model accuracy.
 
-    d. Searched for research papers on photogrammetry program comparisons.
+    e. Searched for research papers on photogrammetry program comparisons.
 
 5. Friday
 
@@ -205,23 +205,38 @@ Week 3: June 18-22
 
     b. Watched Katy's practice iEMS talk.
 
+Week 4: June 25-29
+------------------
+
+1. Monday
+
+    a. Prepared files and photos for RECCS site visit with Renee.
+
+    b. RECCS site visit with Renee.
+
+    c. Marked ChalkCliffs_20180618 images. Completed all through part of T9.
+
+    d. Zoom conference with Katy to plan priorities for the week.
+
 
 Priority List
 =============
 
 Top Priorities
 --------------
-1. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
+1. Finish June 18th markers and build dense cloud.
 
-2. Export practice Agisoft model to a Sketchfab model for RECCS blog.
+2. Construct and write about proposed sets of Ground Control Points. Write down ideas about importance of various elements of GCP selection.
 
-3. Ask F'18 professors about moving exams to attend AGU.
+3. Re read Reitman, Cook, and Westoby papers. Look at PDF of photogrammetry.
 
-4. Construct and write about proposed sets of Ground Control Points. Write down ideas about importance of various elements of GCP selection.
+4. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
 
-5. Finish June 18th markers and build dense cloud.
+5. Ask F'18 professors about moving exams to attend AGU.
 
-6. Re read Reitman, Cook, and Westoby papers. Look at PDF of photogrammetry.
+6. Begin mapping poster and PPT.
+
+7. Export practice Agisoft model to a Sketchfab model for RECCS blog.
 
 Secondary Priorities
 --------------------
