@@ -218,19 +218,23 @@ Week 4: June 25-29
 
     d. Zoom conference with Katy to plan priorities for the week.
 
+2. Tuesday
+
+    a. Finished marking ChalkCliffs_20180618 images and ran Reprojection Error.
+
 
 Priority List
 =============
 
 Top Priorities
 --------------
-1. Finish June 18th markers and build dense cloud.
+1. Build June 18 dense cloud.
 
-2. Construct and write about proposed sets of Ground Control Points. Write down ideas about importance of various elements of GCP selection.
+2. Re read Reitman, Cook, and Westoby papers. Look at PDF of photogrammetry.
 
-3. Re read Reitman, Cook, and Westoby papers. Look at PDF of photogrammetry.
+3. Construct and write about proposed sets of Ground Control Points. Write down ideas about importance of various elements of GCP selection.
 
-4. Start processing ChalkCliffs_20180608 images.
+4. Align and mark ChalkCliffs_20180608 images.
 
 5. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
 
