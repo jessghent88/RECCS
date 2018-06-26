@@ -230,13 +230,15 @@ Top Priorities
 
 3. Re read Reitman, Cook, and Westoby papers. Look at PDF of photogrammetry.
 
-4. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
+4. Start processing ChalkCliffs_20180608 images.
 
-5. Ask F'18 professors about moving exams to attend AGU.
+5. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
 
-6. Begin mapping poster and PPT.
+6. Ask F'18 professors about moving exams to attend AGU.
 
-7. Export practice Agisoft model to a Sketchfab model for RECCS blog.
+7. Begin mapping poster and PPT.
+
+8. Export practice Agisoft model to a Sketchfab model for RECCS blog.
 
 Secondary Priorities
 --------------------
