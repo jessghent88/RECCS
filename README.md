@@ -226,11 +226,11 @@ Top Priorities
 --------------
 1. Finish June 18th markers and build dense cloud.
 
-2. Construct and write about proposed sets of Ground Control Points. Write down ideas about importance of various elements of GCP selection.
+2. Re read Reitman, Cook, and Westoby papers. Look at PDF of photogrammetry.
 
-3. Re read Reitman, Cook, and Westoby papers. Look at PDF of photogrammetry.
+3. Construct and write about proposed sets of Ground Control Points. Write down ideas about importance of various elements of GCP selection. Aim to finish this by end of day Thursday to discuss on Friday.
 
-4. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
+4. Align photos from June 8th flight and place marker.
 
 5. Ask F'18 professors about moving exams to attend AGU.
 
