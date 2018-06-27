@@ -224,9 +224,29 @@ Week 4: June 25-29
 
     b. Re-read Westoby paper.
 
-    c. Began re-reading Cook paper.
+    c. Began re-reading Reitman paper.
 
     d. Began building June 18 dense cloud.
+
+3. Wednesday
+
+    a. Training with RECCS staff.
+
+        A. Group check-in.
+
+        B. Communication workshop - Intros for poster and PPT talk.
+
+        C. Individual check-in.
+
+        D. Lunch with CU Admissions panel.
+
+        E. Tightened tie point accuracy to 0.5, then 0.3. Waiting to ask Katy for final setting before re-running dense cloud.
+
+        F. Re-reading Reitman paper.
+
+        G. Zoom conference with Katy. Tightened tie point accuracy to 0.5. Re-running reprojection error.
+
+        H. Re-running dense cloud overnight.
 
 Priority List
 =============
