@@ -248,6 +248,18 @@ Week 4: June 25-29
 
         H. Re-running dense cloud overnight.
 
+4. Thursday
+
+    a. Attended Jacky's defense.
+
+    b. Worked on RECCS poster - title, intro, and formatting - for Communication Workshop assignment.
+
+    c. Big setback - halibut froze. Shut down and re-ran reprojection error and dense cloud.
+
+    d. Finished re-reading Reitman paper.
+
+    e. Began re-reading Cook paper.
+
 Priority List
 =============
 
