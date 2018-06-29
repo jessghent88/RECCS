@@ -260,25 +260,27 @@ Week 4: June 25-29
 
     e. Began re-reading Cook paper.
 
+5. Friday
+
+    a. Wrote down proposed GCPs and ideas behind why they are acceptable choices.
+
 Priority List
 =============
 
 Top Priorities
 --------------
 
-1. Re-read Reitman and Cook papers. Look at PDF of photogrammetry.
+1. Re-read Cook paper. Look at PDF of photogrammetry.
 
-2. Construct and write about proposed sets of Ground Control Points. Write down ideas about importance of various elements of GCP selection.
+2. Align and mark ChalkCliffs_20180608 images.
 
-3. Align and mark ChalkCliffs_20180608 images.
+3. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
 
-4. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
+4. Ask F'18 professors about moving exams to attend AGU.
 
-5. Ask F'18 professors about moving exams to attend AGU.
+5. Begin mapping PPT.
 
-6. Begin mapping poster and PPT.
-
-7. Export practice Agisoft model to a Sketchfab model for RECCS blog.
+6. Export practice Agisoft model to a Sketchfab model for RECCS blog.
 
 Secondary Priorities
 --------------------
