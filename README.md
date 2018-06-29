@@ -262,7 +262,17 @@ Week 4: June 25-29
 
 5. Friday
 
-    a. Wrote down proposed GCPs and ideas behind why they are acceptable choices.
+    a. Constructed GCPs proposal and reasoning behind choices.
+
+    b. Re-read Cook paper.
+
+    c. Troubleshooting with Halibut regarding memory issues and dense cloud.
+
+    d. Worked on intro for Communications Workshop.
+
+    e. Meeting with Katy regarding GCP selection. Discussed ideas for data management and poster figures.
+
+    f. Created Google Earth displays with 9 groups of GCPs for poster figures.
 
 Priority List
 =============
@@ -270,17 +280,19 @@ Priority List
 Top Priorities
 --------------
 
-1. Re-read Cook paper. Look at PDF of photogrammetry.
+1. Look at PDF of photogrammetry.
 
 2. Align and mark ChalkCliffs_20180608 images.
 
-3. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
+3. Create Reitman table for GCP accuracy data.
 
-4. Ask F'18 professors about moving exams to attend AGU.
+4. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
 
-5. Begin mapping PPT.
+5. Ask F'18 professors about moving exams to attend AGU.
 
-6. Export practice Agisoft model to a Sketchfab model for RECCS blog.
+6. Begin mapping PPT.
+
+7. Export practice Agisoft model to a Sketchfab model for RECCS blog.
 
 Secondary Priorities
 --------------------
