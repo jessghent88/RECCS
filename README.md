@@ -306,7 +306,11 @@ Week 5: July 2-6
     d. SEEC meeting cancelled.
 
     e. Worked on Intro, Refs, Acks and formatting for poster.
-    
+
+    f. Duplicated AlignmentOnly 9 times; renamed A-I for GCP groups.
+
+    g. Completed reconstruction uncertainty to 10 for group A.
+
 Priority List
 =============
 
