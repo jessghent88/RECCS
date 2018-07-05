@@ -303,6 +303,8 @@ Week 5: July 2-6
 
     c. Created replica of Reitman table for GCP accuracy data.
 
+    d. Worked on Intro, Refs, Acks and formatting for poster.
+
 Priority List
 =============
 
@@ -311,13 +313,15 @@ Top Priorities
 
 1. Look at PDF of photogrammetry.
 
-2. Align and mark ChalkCliffs_20180608 images.
+2. Create 9 copies of ChalkCliffs_20180618 images to look at GCP group in each.
 
-3. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
+3. Align and mark ChalkCliffs_20180608 images.
 
-4. Begin mapping PPT.
+4. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
 
-5. Export practice Agisoft model to a Sketchfab model for RECCS blog.
+5. Begin mapping PPT.
+
+6. Export practice Agisoft model to a Sketchfab model for RECCS blog.
 
 Secondary Priorities
 --------------------
