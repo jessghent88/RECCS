@@ -222,7 +222,7 @@ Week 4: June 25-29
 
     a. Finished marking ChalkCliffs_20180618 images and ran Reprojection Error.
 
-    b. Re-read Westoby paper.
+    b. Finished re-reading Westoby paper.
 
     c. Began re-reading Reitman paper.
 
@@ -264,7 +264,7 @@ Week 4: June 25-29
 
     a. Constructed GCPs proposal and reasoning behind choices.
 
-    b. Re-read Cook paper.
+    b. Finished re-reading Cook paper.
 
     c. Troubleshooting with Halibut regarding memory issues and dense cloud.
 
@@ -273,6 +273,33 @@ Week 4: June 25-29
     e. Meeting with Katy regarding GCP selection. Discussed ideas for data management and poster figures.
 
     f. Created Google Earth displays with 9 groups of GCPs for poster figures.
+
+Week 5: July 2-6
+----------------
+
+1. Monday
+
+    a. Field day at Chalk Cliffs. 6am-6pm.
+
+2. Tuesday
+
+    a. Discussed process for completing steps with each GCP group to obtain accuracy value, and how to compare each group.
+
+    b. Unaligned ChalkCliffs_20180618 images. Made copy for GCP research.
+
+    c. Attended Harrison's defense.
+
+    d. Aligned images in copied folder.
+
+3. Wednesday
+
+    a. July 4; no work.
+
+4. Thursday
+
+    a. Updated README for week.
+
+    b. Emailed Fall '18 professors about moving final exams for AGU.
 
 Priority List
 =============
@@ -288,11 +315,9 @@ Top Priorities
 
 4. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
 
-5. Ask F'18 professors about moving exams to attend AGU.
+5. Begin mapping PPT.
 
-6. Begin mapping PPT.
-
-7. Export practice Agisoft model to a Sketchfab model for RECCS blog.
+6. Export practice Agisoft model to a Sketchfab model for RECCS blog.
 
 Secondary Priorities
 --------------------
