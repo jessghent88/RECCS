@@ -311,6 +311,8 @@ Week 5: July 2-6
 
     g. Completed reconstruction uncertainty to 10 for group A.
 
+    h. Weekly meeting with Greg. Discussed issues with Halibut/Agisoft, AGU sessions, RECCS activities.
+
 Priority List
 =============
 
