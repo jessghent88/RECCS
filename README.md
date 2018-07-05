@@ -303,8 +303,10 @@ Week 5: July 2-6
 
     c. Created replica of Reitman table for GCP accuracy data.
 
-    d. Worked on Intro, Refs, Acks and formatting for poster.
+    d. SEEC meeting cancelled.
 
+    e. Worked on Intro, Refs, Acks and formatting for poster.
+    
 Priority List
 =============
 
