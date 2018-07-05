@@ -301,6 +301,8 @@ Week 5: July 2-6
 
     b. Emailed Fall '18 professors about moving final exams for AGU.
 
+    c. Created replica of Reitman table for GCP accuracy data.
+
 Priority List
 =============
 
@@ -311,13 +313,11 @@ Top Priorities
 
 2. Align and mark ChalkCliffs_20180608 images.
 
-3. Create Reitman table for GCP accuracy data.
+3. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
 
-4. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
+4. Begin mapping PPT.
 
-5. Begin mapping PPT.
-
-6. Export practice Agisoft model to a Sketchfab model for RECCS blog.
+5. Export practice Agisoft model to a Sketchfab model for RECCS blog.
 
 Secondary Priorities
 --------------------
