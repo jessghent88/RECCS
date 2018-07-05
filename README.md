@@ -313,6 +313,10 @@ Week 5: July 2-6
 
     h. Weekly meeting with Greg. Discussed issues with Halibut/Agisoft, AGU sessions, RECCS activities.
 
+    i. Completed projection accuracy to 3 and set tie point accuracy to 0.5 for group A. Total error (pix) = 0.413.
+
+    j. Completed process for group I (same uncertainty values as A). Total error (pix) = 0.373.
+
 Priority List
 =============
 
