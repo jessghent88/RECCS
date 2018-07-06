@@ -333,6 +333,8 @@ Week 5: July 2-6
 
     g. Completed process for group H (same uncertainty values as A). Total error (pix) = 0.371.
 
+    h. Completed process for all GCPs (same uncertainty values as A). Total error (pix) = 0.367.
+
 Priority List
 =============
 
