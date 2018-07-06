@@ -317,6 +317,10 @@ Week 5: July 2-6
 
     j. Completed process for group I (same uncertainty values as A). Total error (pix) = 0.373.
 
+5. Friday
+
+    a. Completed process for group B (same uncertainty values as A). Total error (pix) = 0.428.
+
 Priority List
 =============
 
