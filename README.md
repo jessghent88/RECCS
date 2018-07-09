@@ -346,6 +346,8 @@ Week 6: July 9-13
 
     c. Designed and practiced whiteboard presentation.
 
+    d. Met with Katy to discuss issues with GCP error value accuracy and changes to make to redo GCP tests.
+
 Priority List
 =============
 
