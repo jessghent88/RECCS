@@ -342,6 +342,10 @@ Week 6: July 9-13
 
     a. Revised Intro for RECCS.
 
+    b. Edited Intro and Methods section of poster. Edited Acknowledgements and References of PPT.
+
+    c. Designed and practiced whiteboard presentation.
+
 Priority List
 =============
 
@@ -350,21 +354,15 @@ Top Priorities
 
 1. Look at PDF of photogrammetry.
 
-2. Create 9 copies of ChalkCliffs_20180618 images to look at GCP group in each.
-
 3. Align and mark ChalkCliffs_20180608 images.
 
 4. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
-
-5. Begin mapping PPT.
 
 6. Export practice Agisoft model to a Sketchfab model for RECCS blog.
 
 7. Read Chalk Cliffs paper from Matt.
 
 8. Read Passalacqua paper.
-
-9. Work on and practice whiteboard talk for Wednesday.
 
 Secondary Priorities
 --------------------
