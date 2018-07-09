@@ -340,7 +340,7 @@ Week 6: July 9-13
 
 1. Monday
 
-    a. 
+    a. Revised Intro for RECCS.
 
 Priority List
 =============
@@ -364,9 +364,7 @@ Top Priorities
 
 8. Read Passalacqua paper.
 
-9. Fix Intro for RECCS.
-
-10. Work on and practice whiteboard talk for Wednesday.
+9. Work on and practice whiteboard talk for Wednesday.
 
 Secondary Priorities
 --------------------
