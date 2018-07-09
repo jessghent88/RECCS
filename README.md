@@ -335,6 +335,13 @@ Week 5: July 2-6
 
     h. Completed process for all GCPs (same uncertainty values as A). Total error (pix) = 0.367.
 
+Week 6: July 9-13
+-----------------
+
+1. Monday
+
+    a. 
+
 Priority List
 =============
 
@@ -352,6 +359,14 @@ Top Priorities
 5. Begin mapping PPT.
 
 6. Export practice Agisoft model to a Sketchfab model for RECCS blog.
+
+7. Read Chalk Cliffs paper from Matt.
+
+8. Read Passalacqua paper.
+
+9. Fix Intro for RECCS.
+
+10. Work on and practice whiteboard talk for Wednesday.
 
 Secondary Priorities
 --------------------
