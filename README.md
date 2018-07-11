@@ -352,6 +352,8 @@ Week 6: July 9-13
 
     a. Practiced whiteboard talk.
 
+    b. Re-processed error reductions for Groups A-I; obtained total checkpoint error (m) values (A = 0.390493; B = 0.491703; C = 0.405017; D = 0.453892; E = 0.487395; F = 0.489540; G = 0.171283; H = 0.171861; I = 0.171934). Reconstruction uncertainty: 13.426. Projection accuracy: 3. Reprojection error: 0.3. 
+
 Priority List
 =============
 
