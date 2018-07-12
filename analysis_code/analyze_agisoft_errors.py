@@ -27,8 +27,13 @@ for f in files:
     
     # add information about the file
     filename = os.path.basename(f)
-    set_name = filename.split('.')[-2]
+    set_name = filename.split('.')[1]
     data_frame['Set'] = set_name
+    point_name = filename.split('.')[2]
+    data_frame['Point'] = point_name
+    reason_name = filename.split('.')[3]
+    data_frame['Reason'] = reason_name
+    
     
     # add to the data_frame_list
     data_frame_list.append(data_frame)
