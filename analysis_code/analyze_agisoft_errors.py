@@ -62,11 +62,11 @@ summary_table.reset_index(inplace=True)
 # make a plot!
 p = (ggplot(summary_table, aes(x='Number_of_Control_Points', 
                                y='RMSE', 
-                               color='Set')) 
-    + geom_point() 
+                               color='Reason')) 
+    + geom_jitter(width=0.2, height=0) 
     + xlim(0, None)
     + ylim(0, None)
     + facet_wrap("~Control_or_Check", nrow=2) 
     + theme_bw())
     
-print(p)
+p.draw()
