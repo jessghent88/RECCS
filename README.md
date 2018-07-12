@@ -240,13 +240,13 @@ Week 4: June 25-29
 
         D. Lunch with CU Admissions panel.
 
-        E. Tightened tie point accuracy to 0.5, then 0.3. Waiting to ask Katy for final setting before re-running dense cloud.
+    b. Tightened tie point accuracy to 0.5, then 0.3. Waiting to ask Katy for final setting before re-running dense cloud.
 
-        F. Re-reading Reitman paper.
+    c. Re-reading Reitman paper.
 
-        G. Zoom conference with Katy. Tightened tie point accuracy to 0.5. Re-running reprojection error.
+    d. Zoom conference with Katy. Tightened tie point accuracy to 0.5. Re-running reprojection error.
 
-        H. Re-running dense cloud overnight.
+    e. Re-running dense cloud overnight.
 
 4. Thursday
 
@@ -354,11 +354,41 @@ Week 6: July 9-13
 
     b. Re-processed error reductions for Groups A-I; obtained total checkpoint error (m) values (A = 0.390493; B = 0.491703; C = 0.405017; D = 0.453892; E = 0.487395; F = 0.489540; G = 0.171283; H = 0.171861; I = 0.171934). Reconstruction uncertainty: 13.426. Projection accuracy: 3. Reprojection error: 0.3.
 
-    c. Imported Python code to RECCS repository.
+3. Wednesday
 
-    d. Met with Katy to discuss error results and potential implications.
+    a. Training with RECCS staff.
 
-    e. Edited code to include new data frames and change plot point focus/color.
+        A. Group check-in.
+
+        B. Communication workshop - recordkeeping and methods.
+
+        C. Whiteboard presentations.
+
+        D. Individual check-in.
+
+        E. CrowdMag activity
+
+    b. Imported Python code to RECCS repository.
+
+    c. Met with Katy to discuss error results and potential implications.
+
+    d. Edited code to include new data frames and change plot point focus/color.
+
+3. Thursday
+
+    a. Examined results plots and brainstormed ideas to revise GCP groupings and test groupings with 7 and 8 GCPs.
+
+    b. Group meeting at Benson.
+
+    c. Revised GCP groupings involving T9.
+
+    d. Searched photos from 20180518 and 20180618 to observe potential motion of boulder with T9.
+
+    e. Meeting with Katy and Greg. Discussed revisions, error analysis, T9 issues, next field day.
+
+    f. Updated README.
+
+    g. Deleted T9 from A, C, D, E, F. Optimized cameras. Obtained new total checkpoint error analysis.
 
 Priority List
 =============
