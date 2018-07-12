@@ -11,9 +11,9 @@ import numpy as np
 import pandas as pd
 from plotnine import *
 
-folder_path = ""
+folder_path = "/media/halibut/ExtraDrive11/DroneData/chalk_cliffs/2018-06-18/photoscan/exported_marker_errors"
 
-files = glob.glob(os.path.abspath(os.path.join(folder_path, 'agisoft_errors*.txt')))
+files = glob.glob(os.path.abspath(os.path.join(folder_path, 'AgisoftErrors*')))
 
 data_frame_list = []
 
