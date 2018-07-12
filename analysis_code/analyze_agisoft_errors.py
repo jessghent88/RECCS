@@ -49,7 +49,7 @@ df['Control_or_Check'] = df['Enable']
 df.replace({"Control_or_Check": {0: 'Check Point', 1: 'Control Point'}}, inplace=True)
 
 # group by Enabled (0 = Check point vs 1 = Control Point) and Set
-rmse = np.sqrt(df.filter(['Set', 'Control_or_Check', 'Squared_Residual']).groupby(by=['Set', 'Control_or_Check']).mean())
+rmse = np.sqrt(df.filter(['Set', "Reason", 'Control_or_Check', 'Squared_Residual']).groupby(by=['Set', 'Reason', 'Control_or_Check']).mean())
 rmse.rename(columns={'Squared_Residual':'RMSE'}, inplace=True)
 number_of_control_points = df.filter(['Set', 'Enable']).groupby(by=['Set']).sum()
 number_of_control_points.rename(columns={"Enable": "Number_of_Control_Points"}, inplace=True)
