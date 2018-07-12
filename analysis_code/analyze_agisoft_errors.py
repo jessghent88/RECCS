@@ -22,7 +22,7 @@ for f in files:
     # read in table
     data_frame = pd.read_csv(f, skiprows=[0])
     
-    # drop the last row, its incomplted
+    # drop the last row, its incompleted
     data_frame.dropna(inplace=True)
     
     # add information about the file
