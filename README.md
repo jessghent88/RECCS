@@ -418,6 +418,8 @@ Top Priorities
 
 10. Design figures to display results on poster/PPT.
 
+11. Create CV for RECCS.
+
 Secondary Priorities
 --------------------
 
