@@ -408,6 +408,10 @@ Top Priorities
 
 8. Read Passalacqua paper.
 
+9. Write AGU abstract.
+
+10. Design figures to display results on poster/PPT.
+
 Secondary Priorities
 --------------------
 
