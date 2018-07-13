@@ -396,6 +396,8 @@ Week 6: July 9-13
 
     b. Re-ran error reductions for revised Groups B, G, H, and I. Obtained new total checkpoint error (m) values.
 
+    c. Ran error reductions for J, K, L, M, N, and O. Obtained total checkpoint error (m) values.
+
 Priority List
 =============
 
