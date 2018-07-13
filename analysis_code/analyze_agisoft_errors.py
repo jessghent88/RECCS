@@ -63,7 +63,7 @@ summary_table.reset_index(inplace=True)
 p = (ggplot(summary_table, aes(x='Number_of_Control_Points', 
                                y='RMSE', 
                                color='Area')) 
-    + geom_jitter(width=0.2, height=0) 
+    + geom_jitter(width = 0.03, height = 0) 
     + xlim(0, None)
     + ylim(0, None)
     + facet_wrap("~Control_or_Check", nrow=2) 
