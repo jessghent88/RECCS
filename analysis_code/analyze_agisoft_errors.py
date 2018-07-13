@@ -31,8 +31,8 @@ for f in files:
     data_frame['Set'] = set_name
     point_name = filename.split('.')[2]
     data_frame['Point'] = point_name
-    reason_name = filename.split('.')[3]
-    data_frame['Reason'] = reason_name
+    area_name = filename.split('.')[3]
+    data_frame['Area'] = area_name
     
     
     # add to the data_frame_list
@@ -49,7 +49,7 @@ df['Control_or_Check'] = df['Enable']
 df.replace({"Control_or_Check": {0: 'Check Point', 1: 'Control Point'}}, inplace=True)
 
 # group by Enabled (0 = Check point vs 1 = Control Point) and Set
-rmse = np.sqrt(df.filter(['Set', "Reason", 'Control_or_Check', 'Squared_Residual']).groupby(by=['Set', 'Reason', 'Control_or_Check']).mean())
+rmse = np.sqrt(df.filter(['Set', "Area", 'Control_or_Check', 'Squared_Residual']).groupby(by=['Set', 'Area', 'Control_or_Check']).mean())
 rmse.rename(columns={'Squared_Residual':'RMSE'}, inplace=True)
 number_of_control_points = df.filter(['Set', 'Enable']).groupby(by=['Set']).sum()
 number_of_control_points.rename(columns={"Enable": "Number_of_Control_Points"}, inplace=True)
@@ -62,7 +62,7 @@ summary_table.reset_index(inplace=True)
 # make a plot!
 p = (ggplot(summary_table, aes(x='Number_of_Control_Points', 
                                y='RMSE', 
-                               color='Reason')) 
+                               color='Area')) 
     + geom_jitter(width=0.2, height=0) 
     + xlim(0, None)
     + ylim(0, None)
