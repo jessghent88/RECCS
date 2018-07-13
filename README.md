@@ -390,6 +390,10 @@ Week 6: July 9-13
 
     g. Deleted T9 from A, C, D, E, F. Optimized cameras. Obtained new total checkpoint error analysis.
 
+5. Friday
+
+    a. Duplicated 'Copy of AlignmentOnly' chunk to redo Groups B, G, H, I and new Groups J, K, L, M, N, O (7 and 8 GCPs).
+
 Priority List
 =============
 
