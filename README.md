@@ -398,6 +398,15 @@ Week 6: July 9-13
 
     c. Ran error reductions for J, K, L, M, N, and O. Obtained total checkpoint error (m) values.
 
+Week 7: July 16-20
+------------------
+
+1. Monday
+
+    a. Created CV for RECCS meeting on Wed.
+
+    b. Discussed results and process behind residuals/plot results with Katy.
+
 Priority List
 =============
 
@@ -419,10 +428,6 @@ Top Priorities
 9. Write AGU abstract.
 
 10. Design figures to display results on poster/PPT.
-
-11. Create CV for RECCS.
-
-12. Create methods section for RECCS.
 
 Secondary Priorities
 --------------------
