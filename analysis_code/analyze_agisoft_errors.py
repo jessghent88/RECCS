@@ -11,7 +11,7 @@ import numpy as np
 import pandas as pd
 from plotnine import *
 
-folder_path = "/media/halibut/ExtraDrive11/DroneData/chalk_cliffs/2018-06-18/photoscan/exported_marker_errors"
+folder_path = "/mnt/ExtraDrive1/DroneData/chalk_cliffs/2018-06-18/photoscan/exported_marker_errors"
 
 files = glob.glob(os.path.abspath(os.path.join(folder_path, 'AgisoftErrors*')))
 
@@ -20,10 +20,8 @@ data_frame_list = []
 for f in files:
     
     # read in table
-    data_frame = pd.read_csv(f, skiprows=[0])
-    
-    # drop the last row, its incompleted
-    data_frame.dropna(inplace=True)
+    data_frame = pd.read_csv(f, skiprows=[0])#, skipfooter=1)
+    data_frame.rename(columns={'#Label':'GCP'}, inplace=True)
     
     # add information about the file
     filename = os.path.basename(f)
@@ -36,7 +34,7 @@ for f in files:
     
     
     # add to the data_frame_list
-    data_frame_list.append(data_frame)
+    data_frame_list.append(data_frame[data_frame.GCP != '#Total error'])
     
 # concatenate all data frames together
 df = pd.concat(data_frame_list).reset_index(drop=True)
@@ -70,3 +68,25 @@ p = (ggplot(summary_table, aes(x='Number_of_Control_Points',
     + theme_bw())
     
 p.draw()
+
+# make a plot!
+p = (ggplot(df, aes(x='GCP', 
+                               y='Projections', 
+                               color='Set',
+                               shape='Control_or_Check')) 
+    + geom_jitter(width = 0.7, height = 0) 
+        + ylim(0, None)
+      + theme_bw())
+    
+p.draw()
+
+
+# re order columns
+df = df.reindex(columns=['Set', 'Point', 'Area','GCP','Projections', 'Control_or_Check', 'Error_(m)', 'Squared_Residual', 
+                 'Enable', 'X/Longitude', 'Y/Latitude', 'Z/Altitude',
+                     'X_error', 'Y_error', 'Z_error', 'X_est', 'Y_est', 'Z_est'])
+# sort the table, first by Point, then by Area. then by Enable
+df.sort_values(by=['Point', 'Area', 'Enable'], inplace=True)
+
+# export as csv
+df.to_csv(path_or_buf="GCP_Plot.csv")
