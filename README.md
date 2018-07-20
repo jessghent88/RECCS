@@ -407,6 +407,40 @@ Week 7: July 16-20
 
     b. Discussed results and process behind residuals/plot results with Katy.
 
+2. Tuesday
+
+    a. Field day. 5:15a-4:15p. Left ridge with one remaining flight due to incoming inclement weather.
+
+3. Wednesday
+
+    a. Training with RECCS.
+
+        A. Group check-in.
+
+        B. Communication workshop - Methods and results.
+
+        C. Lunch with CV/resume presentation by Anne.
+
+    b. Discussed results with Katy. Designed and created more plots.
+
+4. Thursday
+
+    a. Applied to FRCC lab assistant position.
+
+    b. Responded to professors about AGU/final exams.
+
+    c. Delta Force meeting at SEEC.
+
+    d. Began draft of AGU abstract.
+
+    e. Redesigned layout of poster.
+
+5. Friday
+
+    a. Updated .txt error files to include projections for each GCP.
+
+    b. Created plot of GCP name vs. projections.
+
 Priority List
 =============
 
