@@ -451,29 +451,46 @@ Week 7: July 16-20
 
     f. Exported all plots as jpg and emailed to myself.
 
+Week 7: July 16-20
+------------------
+
+1. Monday
+
+    a. Drafted AGU abstract for submission to USGS. Emailed to Katy and Greg for feedback.
+
+    b. Added new plots to Results in compiled RECCS doc.
+
+    c. Worked on poster. Focused on revising Intro and Conclusions, completing figures for Methods, and adding plots for Results.
+
 Priority List
 =============
 
 Top Priorities
 --------------
 
-1. Look at PDF of photogrammetry.
+1. Submit abstract draft to USGS.
 
-3. Align and mark ChalkCliffs_20180608 images.
+2. Submit abstract to AGU.
 
-4. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
+3. Finish poster and talk. Present practice talk to Katy and Greg on Thursday.
 
-6. Export practice Agisoft model to a Sketchfab model for RECCS blog.
+4. Align and mark ChalkCliffs_20180608 images.
+
+5. Export practice Agisoft model to a Sketchfab model for RECCS blog.
+
+6. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
 
 7. Read Chalk Cliffs paper from Matt.
 
 8. Read Passalacqua paper.
 
-9. Write AGU abstract.
-
-10. Design figures to display results on poster/PPT.
-
 Secondary Priorities
 --------------------
 
-1. Conduct literature review related to uncertainty analysis in Structure from Motion. A good place to start is to use Web of Science to look at the papers cited by and that have cited the Reitman and Cook papers.
+1. Apply for AGU travel grant. Look at flights and hotels.
+
+2. Write CU application essay.
+
+3. Send Greg info for letter of recommendation.
+
+4. Look into UROP and potential projects/professors to do thesis with.
