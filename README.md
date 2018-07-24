@@ -462,13 +462,19 @@ Week 7: July 16-20
 
     c. Worked on poster. Focused on revising Intro and Conclusions, completing figures for Methods, and adding plots for Results.
 
+2. Tuesday
+
+    a. Worked on revisions from Katy and Greg regarding AGU abstract.
+
+    b. Formatted Methods section of poster.
+
 Priority List
 =============
 
 Top Priorities
 --------------
 
-1. Submit abstract draft to USGS.
+1. Revise and submit abstract draft to USGS.
 
 2. Submit abstract to AGU.
 
