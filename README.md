@@ -435,11 +435,21 @@ Week 7: July 16-20
 
     e. Redesigned layout of poster.
 
+    f. Exported data fram as CSV and emailed to myself.
+
 5. Friday
 
     a. Updated .txt error files to include projections for each GCP.
 
     b. Created plot of GCP name vs. projections.
+
+    c. Created plot of number of points (Point) vs. Error(m).
+
+    d. Created two plots of Projections vs. Error(m).
+
+    e. Created Easting/Northing grid to display location of selected control points as compared to overall layout of Chalk Cliffs.
+
+    f. Exported all plots as jpg and emailed to myself.
 
 Priority List
 =============
