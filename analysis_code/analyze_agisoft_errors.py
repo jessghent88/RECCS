@@ -11,6 +11,11 @@ import numpy as np
 import pandas as pd
 from plotnine import *
 
+from pyproj import Proj
+
+#wgs84 = Proj("+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs")
+utm13n = Proj("+proj=utm +zone=13 +ellps=GRS80 +datum=NAD83 +units=m +no_defs ")
+
 folder_path = "/mnt/ExtraDrive1/DroneData/chalk_cliffs/2018-06-18/photoscan/exported_marker_errors"
 
 files = glob.glob(os.path.abspath(os.path.join(folder_path, 'AgisoftErrors*')))
@@ -38,6 +43,11 @@ for f in files:
     
 # concatenate all data frames together
 df = pd.concat(data_frame_list).reset_index(drop=True)
+
+# create UTM coordinates
+easting, northing = utm13n(df['X/Longitude'].values, df['Y/Latitude'].values)
+df['Easting'] = easting
+df['Northing'] = northing
 
 # create a squared residual value
 df['Squared_Residual'] = df['Error_(m)']**2
@@ -68,25 +78,87 @@ p = (ggplot(summary_table, aes(x='Number_of_Control_Points',
     + theme_bw())
     
 p.draw()
+# export as jpeg
+p.save(filename='NumberofGCPs-RMSE.jpg')
 
 # make a plot!
 p = (ggplot(df, aes(x='GCP', 
-                               y='Projections', 
-                               color='Set',
-                               shape='Control_or_Check')) 
+                    y='Projections', 
+                    color='Set',
+                    shape='Control_or_Check')) 
     + geom_jitter(width = 0.7, height = 0) 
-        + ylim(0, None)
-      + theme_bw())
+    + ylim(0, None)
+    + theme_bw())
     
 p.draw()
+# export as jpeg
+p.save(filename='GCP-Projections.jpg')
 
+# make a plot!
+p = (ggplot(df, aes(x='Projections',
+                    y='Error_(m)',
+                    color='Point',
+                    shape='Control_or_Check'))
+    + geom_jitter(width = 0, height = 0.09)
+    + xlim(0, None)
+    + ylim(0, None)
+    + theme_bw())
+    
+p.draw()
+# export as jpeg
+p.save(filename='Projections-Error(m).jpg')
+
+# make a plot!
+p = (ggplot(df, aes(x='Projections',
+                    y='Error_(m)',
+                    color='GCP',
+                    shape='Control_or_Check'))
+    + geom_jitter(width = 0, height = 0.09)
+    + xlim(0, None)
+    + ylim(0, None)
+    + facet_wrap("~Point", nrow=5)
+    + theme_bw())
+    
+p.draw()
+# export as jpeg
+p.save(filename='Projections-Error(m)2.jpg')
+
+# make a plot!
+p = (ggplot(df, aes(x='Point',
+                    y='Error_(m)',
+                    color='Area',
+                    shape='Control_or_Check'))
+    + geom_point()
+    + ylim(0, None)
+    + facet_wrap("~GCP", nrow=4)
+    + theme_bw())
+
+p.draw()
+# export as jpeg
+p.save(filename='Point-Error(m).jpg')
+
+#%%
+# make a plot!
+p = (ggplot(df, aes(x='Easting',
+                    y='Northing',
+                    color='Control_or_Check'))
+    + geom_point()
+    + scale_color_brewer(type='qual',palette=3)
+    + facet_grid("Point~Area")
+    + theme_bw())
+    
+p.draw()
+# export as jpeg
+p.save(filename='Easting-Northing.jpg')
 
 # re order columns
 df = df.reindex(columns=['Set', 'Point', 'Area','GCP','Projections', 'Control_or_Check', 'Error_(m)', 'Squared_Residual', 
-                 'Enable', 'X/Longitude', 'Y/Latitude', 'Z/Altitude',
+                 'Enable', 'X/Longitude', 'Y/Latitude', 'Z/Altitude', 'Easting', 'Northing',
                      'X_error', 'Y_error', 'Z_error', 'X_est', 'Y_est', 'Z_est'])
 # sort the table, first by Point, then by Area. then by Enable
 df.sort_values(by=['Point', 'Area', 'Enable'], inplace=True)
 
 # export as csv
 df.to_csv(path_or_buf="GCP_Plot.csv")
+
+
