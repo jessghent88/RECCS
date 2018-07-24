@@ -468,6 +468,8 @@ Week 7: July 16-20
 
     b. Formatted Methods section of poster.
 
+    c. Adjusted code to add titles to plots. Undid after realizing that titles need to be from data frame columns.
+
 Priority List
 =============
 
