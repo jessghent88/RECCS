@@ -16,7 +16,7 @@ from pyproj import Proj
 #wgs84 = Proj("+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs")
 utm13n = Proj("+proj=utm +zone=13 +ellps=GRS80 +datum=NAD83 +units=m +no_defs ")
 
-folder_path = "/mnt/ExtraDrive1/DroneData/chalk_cliffs/2018-06-18/photoscan/exported_marker_errors"
+folder_path = "data/"
 
 files = glob.glob(os.path.abspath(os.path.join(folder_path, 'AgisoftErrors*')))
 
@@ -37,7 +37,7 @@ for f in files:
     area_name = filename.split('.')[3]
     data_frame['Area'] = area_name
     
-    data_frame.replace({'Area':{'Overall': 'Entire Area'}}, inplace=True)
+    data_frame.replace({'Area':{'Overall': 'Entire Basin'}}, inplace=True)
     
     # add to the data_frame_list
     data_frame_list.append(data_frame[data_frame.GCP != '#Total error'])
