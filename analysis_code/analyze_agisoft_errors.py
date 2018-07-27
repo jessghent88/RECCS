@@ -37,6 +37,7 @@ for f in files:
     area_name = filename.split('.')[3]
     data_frame['Area'] = area_name
     
+    data_frame.replace({'Area':{'Overall': 'Entire Area'}}, inplace=True)
     
     # add to the data_frame_list
     data_frame_list.append(data_frame[data_frame.GCP != '#Total error'])
@@ -67,32 +68,40 @@ summary_table = rmse.join(number_of_control_points, how = 'left')
 summary_table.reset_index(inplace=True)
 
 
+#%%
 # make a plot!
-p = (ggplot(summary_table, aes(x='Number_of_Control_Points', 
+filtered_summary_table=summary_table.loc[summary_table['Control_or_Check'] == 'Check Point']
+p = (ggplot(filtered_summary_table, aes(x='Number_of_Control_Points', 
                                y='RMSE', 
                                color='Area')) 
-    + geom_jitter(width = 0.07, height = 0) 
-    + xlim(0, None)
+    + geom_point(size=3)
     + ylim(0, None)
-    + facet_wrap("~Control_or_Check", nrow=2) 
-    + theme_bw())
+    + scale_x_continuous(limits=(0, 9), breaks=[0, 3, 6, 9])
+    + ggtitle("Model Accuracy in Meters by Area as Number of GCPs Increases")
+    + xlab("Number of Ground Control Points Used")
+    + ylab("Root Mean Squared Error (m)")
+    + theme_bw(base_size=14))
     
 p.draw()
 # export as jpeg
-p.save(filename='NumberofGCPs-RMSE.jpg')
+p.save(filename='NumberofGCPs-RMSE.jpg', dpi=300)
+#%%
 
+#%%
 # make a plot!
 p = (ggplot(df, aes(x='GCP', 
-                    y='Projections', 
-                    color='Set',
-                    shape='Control_or_Check')) 
-    + geom_jitter(width = 0.7, height = 0) 
+                    y='Projections')) 
+    + geom_point() 
     + ylim(0, None)
-    + theme_bw())
+    + ggtitle("Number of Times GCPs Were Marked in Agisoft")
+    + xlab("Ground Control Point")
+    + ylab("Number of Projections")
+    + theme_bw(base_size=14))
     
 p.draw()
 # export as jpeg
-p.save(filename='GCP-Projections.jpg')
+p.save(filename='GCP-Projections.jpg', dpi=300)
+#%%
 
 # make a plot!
 p = (ggplot(df, aes(x='Projections',
@@ -102,7 +111,7 @@ p = (ggplot(df, aes(x='Projections',
     + geom_jitter(width = 0, height = 0.09)
     + xlim(0, None)
     + ylim(0, None)
-    + theme_bw())
+    + theme_bw(base_size=18))
     
 p.draw()
 # export as jpeg
@@ -117,12 +126,13 @@ p = (ggplot(df, aes(x='Projections',
     + xlim(0, None)
     + ylim(0, None)
     + facet_wrap("~Point", nrow=5)
-    + theme_bw())
+    + theme_bw(base_size=18))
     
 p.draw()
 # export as jpeg
 p.save(filename='Projections-Error(m)2.jpg')
 
+#%%
 # make a plot!
 p = (ggplot(df, aes(x='Point',
                     y='Error_(m)',
@@ -130,12 +140,16 @@ p = (ggplot(df, aes(x='Point',
                     shape='Control_or_Check'))
     + geom_point()
     + ylim(0, None)
+    + ggtitle("Error (m) of Each Ground Control Point")
+    + xlab("Number of Ground Control Points Used")
+    + ylab("Check Point Error (m)")
     + facet_wrap("~GCP", nrow=4)
-    + theme_bw())
+    + theme_bw(base_size=14))
 
 p.draw()
 # export as jpeg
-p.save(filename='Point-Error(m).jpg')
+p.save(filename='Point-Error(m).jpg', dpi=300)
+#%%
 
 #%%
 # make a plot!
@@ -144,12 +158,18 @@ p = (ggplot(df, aes(x='Easting',
                     color='Control_or_Check'))
     + geom_point()
     + scale_color_brewer(type='qual',palette=3)
+    + ggtitle("Distribution of Control Points and Check Points")
+    + xlab("Area of Focus for Control Points in Basin")
+    + ylab("Number of GCPs Used")
     + facet_grid("Point~Area")
-    + theme_bw())
+    + scale_x_continuous(breaks=[], labels=[])
+    + scale_y_continuous(breaks=[], labels=[])
+    + theme_bw(base_size=14))
     
 p.draw()
 # export as jpeg
-p.save(filename='Easting-Northing.jpg')
+p.save(filename='Easting-Northing.jpg', dpi=300)
+#%%
 
 # re order columns
 df = df.reindex(columns=['Set', 'Point', 'Area','GCP','Projections', 'Control_or_Check', 'Error_(m)', 'Squared_Residual', 
