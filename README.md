@@ -435,7 +435,7 @@ Week 7: July 16-20
 
     e. Redesigned layout of poster.
 
-    f. Exported data fram as CSV and emailed to myself.
+    f. Exported data frame as CSV and emailed to myself.
 
 5. Friday
 
@@ -469,6 +469,40 @@ Week 7: July 16-20
     b. Formatted Methods section of poster.
 
     c. Adjusted code to add titles to plots. Undid after realizing that titles need to be from data frame columns.
+
+3. Wednesday
+
+    a. Training with RECCS.
+
+        A. Communication workshop - Results and discussion/conclusion. Main takeaways from findings.
+
+        B. Lunch with ppt presentation examples.
+
+    b. Revised poster and plots.
+
+4. Thursday
+
+    a. Revised AGU abstract to submit to AGU.
+
+    b. Interview for Daily Camera feature.
+
+    b. Met with Katy and Greg to discuss poster and potentially missing next Chalk day.
+
+    c. Revised plots.
+
+5. Friday
+
+    a. Revised poster.
+
+    b. Submitted AGU abstract to USGS.
+
+    c. Met with Jenny from 10:30-12:15 to discuss poster and revisions.
+
+    d. Photographs for Daily Camera feature.
+
+    e. Revised AGU abstract per USGS feedback.
+
+    f. Revised plots.
 
 Priority List
 =============
