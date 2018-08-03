@@ -451,7 +451,7 @@ Week 7: July 16-20
 
     f. Exported all plots as jpg and emailed to myself.
 
-Week 7: July 16-20
+Week 8: July 23-27
 ------------------
 
 1. Monday
@@ -503,6 +503,58 @@ Week 7: July 16-20
     e. Revised AGU abstract per USGS feedback.
 
     f. Revised plots.
+
+Week 9: July 30 - Aug 3
+-----------------------
+
+1. Monday
+
+    a. Field day.
+
+2. Tuesday
+
+    a. Out of state for personal matter.
+
+3. Wednesday
+
+    a. Practice talks with RECCS.
+
+        A. Group check-in.
+
+        B. Post-internship survey.
+
+        C. Practice talks.
+
+        D. Lunch and "tests".
+
+    b. Revised PPT talk.
+
+    c. Practice talk for Katy and Greg.
+
+4. Thursday
+
+    a. Revised PPT talk.
+
+    b. Bi-weekly SEEC meeting.
+
+    c. Revised PPT talk.
+
+    d. Poster session at UCAR.
+
+5. Friday
+
+    a. Revised and submitted PPT talk.
+
+    b. Practiced PPT talk.
+
+    c. Updated week's activities on Git.
+
+    d. PPT presentation at CIRES.
+
+    e. Post-talks reception.
+
+
+
 
 Priority List
 =============
