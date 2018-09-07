@@ -553,7 +553,14 @@ Week 9: July 30 - Aug 3
 
     e. Post-talks reception.
 
+Friday September 30
+-------------------
 
+    1. Completed new-hire paperwork and training.
+
+    2. Began marking ChalkCliffs_20180828 images.
+
+        a. Completed markers for DT1, RD3, RD4, and RD5.
 
 
 Priority List
@@ -562,13 +569,7 @@ Priority List
 Top Priorities
 --------------
 
-1. Revise and submit abstract draft to USGS.
-
-2. Submit abstract to AGU.
-
-3. Finish poster and talk. Present practice talk to Katy and Greg on Thursday.
-
-4. Align and mark ChalkCliffs_20180608 images.
+4. Align and mark ChalkCliffs_20180828 images.
 
 5. Export practice Agisoft model to a Sketchfab model for RECCS blog.
 
@@ -581,10 +582,4 @@ Top Priorities
 Secondary Priorities
 --------------------
 
-1. Apply for AGU travel grant. Look at flights and hotels.
-
-2. Write CU application essay.
-
-3. Send Greg info for letter of recommendation.
-
-4. Look into UROP and potential projects/professors to do thesis with.
+1. Look into UROP and potential projects/professors to do thesis with.
