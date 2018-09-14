@@ -562,6 +562,12 @@ Friday September 30
 
         a. Completed markers for DT1, RD3, RD4, and RD5.
 
+Friday September 30
+-------------------
+
+    1. Marked ChalkCliffs_20180828 images.
+
+        a. Completed markers for DT2, DT3, DT4. Started DT5.
 
 Priority List
 =============
@@ -569,9 +575,9 @@ Priority List
 Top Priorities
 --------------
 
-4. Align and mark ChalkCliffs_20180828 images.
+4. Mark ChalkCliffs_20180828 images.
 
-5. Export practice Agisoft model to a Sketchfab model for RECCS blog.
+5. Export practice Agisoft model to a Sketchfab model.
 
 6. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
 
