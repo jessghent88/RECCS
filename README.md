@@ -553,7 +553,7 @@ Week 9: July 30 - Aug 3
 
     e. Post-talks reception.
 
-Friday September 30
+Friday September 7
 -------------------
 
     1. Completed new-hire paperwork and training.
@@ -562,12 +562,19 @@ Friday September 30
 
         a. Completed markers for DT1, RD3, RD4, and RD5.
 
-Friday September 30
+Friday September 14
 -------------------
 
     1. Marked ChalkCliffs_20180828 images.
 
         a. Completed markers for DT2, DT3, DT4. Started DT5.
+
+Friday September 21
+-------------------
+
+    1. Marked ChalkCliffs_20180828.
+
+        a. Completed markers for DT5, RD1, RD2, RD6, RD7, T3. Started T9.
 
 Priority List
 =============
@@ -575,15 +582,17 @@ Priority List
 Top Priorities
 --------------
 
-4. Mark ChalkCliffs_20180828 images.
+1. Mark ChalkCliffs_20180828 images.
 
-5. Export practice Agisoft model to a Sketchfab model.
+2. Double check markers on ChalkCliffs_20180509 images.
 
-6. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
+3. Export practice Agisoft model to a Sketchfab model.
 
-7. Read Chalk Cliffs paper from Matt.
+4. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
 
-8. Read Passalacqua paper.
+5. Read Chalk Cliffs paper from Matt.
+
+6. Read Passalacqua paper.
 
 Secondary Priorities
 --------------------
