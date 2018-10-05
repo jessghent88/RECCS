@@ -576,15 +576,33 @@ Friday September 21
 
         a. Completed markers for DT5, RD1, RD2, RD6, RD7, T3. Started T9.
 
+Friday September 28
+-------------------
+
+    1. Out of state for wedding.
+
+Friday October 5
+----------------
+
+    1. Finished marking ChalkCliffs_20180828 images.
+
+        a. Completed markers for T9 and T4.
+
+    2. Checked markers for ChalkCliffs_20180509 images.
+
+    3. Began marking ChalkCliffs_20180608 images.
+
+        a. Completed markers for RD4, RD5. Started RD3.
+
 Priority List
 =============
 
 Top Priorities
 --------------
 
-1. Mark ChalkCliffs_20180828 images.
+2. Mark ChalkCliffs_20180608 images.
 
-2. Double check markers on ChalkCliffs_20180509 images.
+2. Change ChalkCliffs_20180608 file name in Agisoft (date reversed; says 8/6).
 
 3. Export practice Agisoft model to a Sketchfab model.
 
