@@ -594,25 +594,34 @@ Friday October 5
 
         a. Completed markers for RD4, RD5. Started RD3.
 
+Friday October 12
+-----------------
+
+    1. Changed ChalkCliffs_20180608 file name in Agisoft (date reversed; said 8/6).
+
 Priority List
 =============
 
 Top Priorities
 --------------
 
-2. Mark ChalkCliffs_20180608 images.
+1. Mark ChalkCliffs_20180608 images.
 
-2. Change ChalkCliffs_20180608 file name in Agisoft (date reversed; says 8/6).
+2. Book AGU flights.
 
-3. Export practice Agisoft model to a Sketchfab model.
+3. AGU registration.
 
-4. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
-
-5. Read Chalk Cliffs paper from Matt.
-
-6. Read Passalacqua paper.
+4. Revise RECCS poster for AGU.
 
 Secondary Priorities
 --------------------
 
 1. Look into UROP and potential projects/professors to do thesis with.
+
+2. Export practice Agisoft model to a Sketchfab model.
+
+3. Work through the [command line, git, and python lessons from CSMDS](https://csdms.github.io/2018-05-21-csdms/).
+
+4. Read Chalk Cliffs paper from Matt.
+
+5. Read Passalacqua paper.
