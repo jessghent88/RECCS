@@ -599,13 +599,17 @@ Friday October 12
 
     1. Changed ChalkCliffs_20180608 file name in Agisoft (date reversed; said 8/6).
 
+    2. Marked ChalkCliffs_20180608.
+
+       a. Completed markers for RD3, RD6, RD7, RD1, RD2, DT1, DT2, DT3. Started DT4.
+
 Priority List
 =============
 
 Top Priorities
 --------------
 
-1. Mark ChalkCliffs_20180608 images.
+1. Mark ChalkCliffs_20180608 images (ask about RD1 and RD2 - sideways w/ drone).
 
 2. Book AGU flights.
 
