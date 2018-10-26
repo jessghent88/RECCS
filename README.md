@@ -601,7 +601,18 @@ Friday October 12
 
     2. Marked ChalkCliffs_20180608.
 
-       a. Completed markers for RD3, RD6, RD7, RD1, RD2, DT1, DT2, DT3. Started DT4.
+        a. Completed markers for RD3, RD6, RD7, RD1, RD2, DT1, DT2, DT3. Started DT4.
+
+Friday October 19
+-----------------
+
+    1. Set up colorado.edu email.
+
+    2. Set up Concur info for AGU travel and looked at flights.
+
+    3. Marked ChalkCliffs_20180608.
+
+        a. Completed DT4. Started DT5.
 
 Priority List
 =============
