@@ -614,8 +614,25 @@ Friday October 19
 
         a. Completed DT4. Started DT5.
 
+Friday November 2
+-----------------
+
+    1. Discussed SfM paper and M3C2 paper with Katy.
+
+    2. Finished marking ChalkCliffs_20180608.
+
+        a. Completed DT5, T3, T9, and T4.
+
 Priority List
 =============
+
+Photoscan Processing Order
+--------------------------
+1. 10/29
+2. 7/30
+3. 7/17
+4. 8/13
+5. 7/02
 
 Top Priorities
 --------------
