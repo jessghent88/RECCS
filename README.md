@@ -623,6 +623,28 @@ Friday November 2
 
         a. Completed DT5, T3, T9, and T4.
 
+Friday November 16
+------------------
+
+    1. Read Warrick paper.
+
+    2. Read Cook paper.
+
+    3. Began lit review.
+
+Friday November 30
+------------------
+
+    1. Practiced RECCS talk for FRCC science talk.
+
+    2. Set up AGU scheduling app.
+
+        a. Scheduled lunch/dinner/talks with Katy.
+
+    3. Emailed AGU attendees for networking.
+
+    4. Revised RECCS poster.
+
 Priority List
 =============
 
@@ -637,11 +659,26 @@ Photoscan Processing Order
 Top Priorities
 --------------
 
-1. Mark ChalkCliffs_20180608 images (ask about RD1 and RD2 - sideways w/ drone).
+1. Do gradual selection for all markers.
 
-2. Book AGU flights.
+2. Literature review on comparison statistics.
+    a. Starting papers include
 
-3. AGU registration.
+    Warrick, Jonathan A., et al. "New techniques to measure cliff change from historical oblique aerial photographs and structure-from-motion photogrammetry." Journal of Coastal Research 33.1 (2016): 39-55.
+
+    Cook, Kristen L. "An evaluation of the effectiveness of low-cost UAVs and structure from motion for geomorphic change detection." Geomorphology 278 (2017): 195-208.
+
+    Reitman, Nadine G., et al. "High‐resolution trench photomosaics from image‐based modeling: Workflow and error analysis." Bulletin of the Seismological Society of America 105.5 (2015): 2354-2366.
+
+    Palaseanu-Lovejoy, M., Poppenga, S.K., Danielson, J.J., Tyler, D.J., Gesch, D.B., Kottermair, M., Jalandoni, A., Carlson, E., Thatcher, C.A., and Barbee, M.M., 2018, One-meter topobathymetric digital elevation model for Majuro Atoll, Republic of the Marshall Islands, 1944 to 2016: U.S. Geological Survey Scientific Investigations Report 2018–5047, 16 p., https://doi.org/10.3133/sir20185047.
+
+3. Reset all regions in all projects.
+
+4. Build full dense point clouds for all "overall models"
+
+    A, D, G, J, M
+
+5. Build small scope dense clouds for other models
 
 4. Revise RECCS poster for AGU.
 
