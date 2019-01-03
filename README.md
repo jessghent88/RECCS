@@ -666,6 +666,15 @@ Wednesday December 19
 
     4. Called Christopherson for reimbursement of original DEN-CLT flight.
 
+Thursday December 20
+--------------------
+
+    1. Read Dohrenwend paper.
+
+    2. Researched field sites for cinder cone project.
+
+    3. Began reading Wood paper.
+
 Priority List
 =============
 
@@ -709,7 +718,11 @@ Secondary Priorities
 2. Literature review on cinder cone geomorphology.
     a. Starting papers includes
 
-    
+    Dohrenwend, John C., et al, "Degradation of quaternary cinder cones in the Cima volcanic field, Mojave Desert, California." Geological Society of America Bulletin 97 (1986): 421-427.
+
+    McGuire, Luke A., et al. "Development of topographic asymmetry: Insights from dated cinder cones in the western United States." Journal of Geophysical Research: Earth Surface 119 (2014): 1725-1750.
+
+    Wood, Charles A. "Morphometric evolution of cinder cones." Journal of Volcanology and Geothermal Research 7 (1980): 387-413.
 
 2. Export practice Agisoft model to a Sketchfab model.
 
