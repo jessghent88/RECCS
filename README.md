@@ -553,8 +553,8 @@ Week 9: July 30 - Aug 3
 
     e. Post-talks reception.
 
-Friday September 7
--------------------
+Friday September 7, 2018
+------------------------
 
     1. Completed new-hire paperwork and training.
 
@@ -562,27 +562,27 @@ Friday September 7
 
         a. Completed markers for DT1, RD3, RD4, and RD5.
 
-Friday September 14
--------------------
+Friday September 14, 2018
+-------------------------
 
     1. Marked ChalkCliffs_20180828 images.
 
         a. Completed markers for DT2, DT3, DT4. Started DT5.
 
-Friday September 21
--------------------
+Friday September 21, 2018
+-------------------------
 
     1. Marked ChalkCliffs_20180828.
 
         a. Completed markers for DT5, RD1, RD2, RD6, RD7, T3. Started T9.
 
-Friday September 28
--------------------
+Friday September 28, 2018
+-------------------------
 
     1. Out of state for wedding.
 
-Friday October 5
-----------------
+Friday October 5, 2018
+----------------------
 
     1. Finished marking ChalkCliffs_20180828 images.
 
@@ -594,8 +594,8 @@ Friday October 5
 
         a. Completed markers for RD4, RD5. Started RD3.
 
-Friday October 12
------------------
+Friday October 12, 2018
+-----------------------
 
     1. Changed ChalkCliffs_20180608 file name in Agisoft (date reversed; said 8/6).
 
@@ -603,8 +603,8 @@ Friday October 12
 
         a. Completed markers for RD3, RD6, RD7, RD1, RD2, DT1, DT2, DT3. Started DT4.
 
-Friday October 19
------------------
+Friday October 19, 2018
+-----------------------
 
     1. Set up colorado.edu email.
 
@@ -614,8 +614,8 @@ Friday October 19
 
         a. Completed DT4. Started DT5.
 
-Friday November 2
------------------
+Friday November 2, 2018
+-----------------------
 
     1. Discussed SfM paper and M3C2 paper with Katy.
 
@@ -623,8 +623,8 @@ Friday November 2
 
         a. Completed DT5, T3, T9, and T4.
 
-Friday November 16
-------------------
+Friday November 16, 2018
+------------------------
 
     1. Read Warrick paper.
 
@@ -632,8 +632,8 @@ Friday November 16
 
     3. Began lit review.
 
-Friday November 30
-------------------
+Friday November 30, 2018
+------------------------
 
     1. Practiced RECCS talk for FRCC science talk.
 
@@ -645,18 +645,18 @@ Friday November 30
 
     4. Revised RECCS poster.
 
-Friday December 7
------------------
+Friday December 7, 2018
+-----------------------
 
 Out of office to take final exams.
 
-Friday December 14
-------------------
+Friday December 14, 2018
+------------------------
 
 Out of office attending AGU.
 
-Wednesday December 19
----------------------
+Wednesday December 19, 2018
+---------------------------
 
     1. Discussed new cinder cone project with Katy.
 
@@ -666,14 +666,31 @@ Wednesday December 19
 
     4. Called Christopherson for reimbursement of original DEN-CLT flight.
 
-Thursday December 20
---------------------
+Thursday December 20, 2018
+--------------------------
 
     1. Read Dohrenwend paper.
 
     2. Researched field sites for cinder cone project.
 
     3. Began reading Wood paper.
+
+Thursday January 3, 2019
+------------------------
+
+    1. Submitted AGU flight itinerary to accounting and submitted expense report via Concur.
+
+    2. Submitted $30 parking fee expense report.
+
+    3. Emailed AGU contacts.
+
+        a. Matt Patrick - HVO
+
+        b. Kathy Cashman - University of Bristol
+
+    4. Caught up on README activity from December.
+
+    5. Continued reading Wood paper.
 
 Priority List
 =============
