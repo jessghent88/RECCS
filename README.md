@@ -694,6 +694,10 @@ Thursday January 3, 2019
 
     6. AGU license still not working (problem began mid-December). Katy trying to resolve from home. Will mark ChalkCliffs_20181029 once software is working again.
 
+    7. Began marking ChalkCliffs_20181029 images.
+
+        a. Completed markers for RD1, RD2, RD3, RD4, RD5, RD6, RD7, DT1, DT5.
+
 Priority List
 =============
 
