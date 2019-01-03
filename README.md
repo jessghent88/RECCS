@@ -645,6 +645,27 @@ Friday November 30
 
     4. Revised RECCS poster.
 
+Friday December 7
+-----------------
+
+Out of office to take final exams.
+
+Friday December 14
+------------------
+
+Out of office attending AGU.
+
+Wednesday December 19
+---------------------
+
+    1. Discussed new cinder cone project with Katy.
+
+    2. Researched papers on cinder cone geomorphology.
+
+    3. Prepared AGU expense report.
+
+    4. Called Christopherson for reimbursement of original DEN-CLT flight.
+
 Priority List
 =============
 
@@ -680,12 +701,15 @@ Top Priorities
 
 5. Build small scope dense clouds for other models
 
-4. Revise RECCS poster for AGU.
-
 Secondary Priorities
 --------------------
 
 1. Look into UROP and potential projects/professors to do thesis with.
+
+2. Literature review on cinder cone geomorphology.
+    a. Starting papers includes
+
+    
 
 2. Export practice Agisoft model to a Sketchfab model.
 
