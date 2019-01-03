@@ -688,9 +688,11 @@ Thursday January 3, 2019
 
         b. Kathy Cashman - University of Bristol
 
-    4. Caught up on README activity from December.
+    4. Updated README activity from December.
 
     5. Continued reading Wood paper.
+
+    6. AGU license still not working (problem began mid-December). Katy trying to resolve from home. Will mark ChalkCliffs_20181029 once software is working again.
 
 Priority List
 =============
