@@ -698,6 +698,15 @@ Thursday January 3, 2019
 
         a. Completed markers for RD1, RD2, RD3, RD4, RD5, RD6, RD7, DT1, DT5.
 
+Friday January 4, 2019
+----------------------
+
+    1. Completed WS funding verification form for CU.
+
+    2. Marked ChalkCliffs_20181029 images.
+
+        a. Completed markers for DT2, DT3, DT4. Started T3.
+
 Priority List
 =============
 
