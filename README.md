@@ -612,7 +612,7 @@ Friday October 19, 2018
 
     3. Marked ChalkCliffs_20180608.
 
-        a. Completed DT4. Started DT5.
+        a. Completed markers for DT4. Started DT5.
 
 Friday November 2, 2018
 -----------------------
@@ -621,7 +621,7 @@ Friday November 2, 2018
 
     2. Finished marking ChalkCliffs_20180608.
 
-        a. Completed DT5, T3, T9, and T4.
+        a. Completed markers for DT5, T3, T9, and T4.
 
 Friday November 16, 2018
 ------------------------
@@ -706,6 +706,15 @@ Friday January 4, 2019
     2. Marked ChalkCliffs_20181029 images.
 
         a. Completed markers for DT2, DT3, DT4. Started T3.
+
+Tuesday January 8, 2019
+-----------------------
+
+    1. Finished marking ChalkCliffs_20181029.
+
+        a. Completed markers for T3, T4, T9.
+
+    2. Discussed UROP team funding with Katy.
 
 Priority List
 =============
