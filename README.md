@@ -716,6 +716,10 @@ Tuesday January 8, 2019
 
     2. Discussed UROP team funding with Katy.
 
+    3. Started marking ChalkCliffs_20180813.
+
+        a. Completed markers for RD1, RD2, RD3, RD4, RD5, RD6, RD7.
+
 Priority List
 =============
 
