@@ -720,6 +720,17 @@ Tuesday January 8, 2019
 
         a. Completed markers for RD1, RD2, RD3, RD4, RD5, RD6, RD7.
 
+Thursday January 10, 2019
+-------------------------
+
+    1. Discussed UROP funding with Katy and Greg.
+
+    2. Discussed undergrad thesis and cinder cone project with Greg.
+
+    3. Marked ChalkCliffs_20180813 images.
+
+        a. Completed markers for DT1, DT2, DT3, DT4. Started DT5.
+
 Priority List
 =============
 
