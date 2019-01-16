@@ -731,16 +731,26 @@ Thursday January 10, 2019
 
         a. Completed markers for DT1, DT2, DT3, DT4. Started DT5.
 
+Wednesday January 16, 2019
+--------------------------
+
+    1. Finished marking ChalkCliffs_20180813 images.
+
+        a. Completed markers for DT5, T3, T4, T9.
+
+    2. Started marking ChalkCliffs_20180702 images.
+
+        a. Completed markers for RD1, RD2, RD3, RD4, RD5, RD6, RD7, DT1, DT2.
+
 Priority List
 =============
 
 Photoscan Processing Order
 --------------------------
-1. 10/29
-2. 7/30
-3. 7/17
-4. 8/13
-5. 7/02
+1. 7/02
+2. 7/17
+3. 7/30
+4. 9/17
 
 Top Priorities
 --------------
