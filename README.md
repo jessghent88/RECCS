@@ -742,6 +742,23 @@ Wednesday January 16, 2019
 
         a. Completed markers for RD1, RD2, RD3, RD4, RD5, RD6, RD7, DT1, DT2.
 
+Thursday January 17, 2019
+-------------------------
+
+    1. Continued reading McGuire paper.
+
+        a. Brainstormed ideas for undergrad thesis regarding cinder cone reconstruction and computer modeling.
+
+    2. Marked ChalkCliffs_20180702 images.
+
+        a. Completed markers for DT3, DT4, DT5, T3. Started T4.
+
+    3. Met with Katy and Greg. Discussed undergrad thesis ideas.
+
+        a. Most likely candidate: (1st year) find cinder cones with stereo imagery data; fly drone for new data; create topo difference DEM. (2nd year) create model showing evolution of cone from stereo (initial) to drone (present).
+
+        b. Katy will email with stereo imagery info.
+
 Priority List
 =============
 
@@ -775,6 +792,8 @@ Top Priorities
     A, D, G, J, M
 
 5. Build small scope dense clouds for other models
+
+6. Check RD1 during next Chalk trip. RD1 not visible at supposed location in drone images.
 
 Secondary Priorities
 --------------------
