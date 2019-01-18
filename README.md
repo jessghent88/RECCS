@@ -759,15 +759,29 @@ Thursday January 17, 2019
 
         b. Katy will email with stereo imagery info.
 
+  Friday January 18, 2019
+  -----------------------
+
+      1. Finished marking ChalkCliffs_20180702 images.
+
+          a. Completed markers for T4, T9.
+
+      2. Marked ChalkCliffs_20180717 images.
+
+          a. Completed all markers.
+
+      3.  Began marking ChalkCliffs_20180730 images.
+
+          a. Completed markers for RD1, RD2, RD3, RD4, RD5, RD6, RD7, DT1, DT2.
+
+
 Priority List
 =============
 
 Photoscan Processing Order
 --------------------------
-1. 7/02
-2. 7/17
-3. 7/30
-4. 9/17
+1. 7/30
+2. 9/17
 
 Top Priorities
 --------------
