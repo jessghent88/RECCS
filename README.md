@@ -762,17 +762,26 @@ Thursday January 17, 2019
   Friday January 18, 2019
   -----------------------
 
-      1. Finished marking ChalkCliffs_20180702 images.
+    1. Finished marking ChalkCliffs_20180702 images.
 
-          a. Completed markers for T4, T9.
+        a. Completed markers for T4, T9.
 
-      2. Marked ChalkCliffs_20180717 images.
+    2. Marked ChalkCliffs_20180717 images.
 
-          a. Completed all markers.
+        a. Completed all markers.
 
-      3.  Began marking ChalkCliffs_20180730 images.
+    3.  Began marking ChalkCliffs_20180730 images.
 
-          a. Completed markers for RD1, RD2, RD3, RD4, RD5, RD6, RD7, DT1, DT2.
+        a. Completed markers for RD1, RD2, RD3, RD4, RD5, RD6, RD7, DT1, DT2.
+
+  Friday January 25, 2019
+  -----------------------
+
+    1. Finished marking ChalkCliffs_20180730 images.
+
+        a. Completed markers for DT3, DT4, DT5, T3, T4, T9.
+
+    2. Worked on UROP funding proposal.
 
 
 Priority List
@@ -780,8 +789,7 @@ Priority List
 
 Photoscan Processing Order
 --------------------------
-1. 7/30
-2. 9/17
+1. 9/17
 
 Top Priorities
 --------------
