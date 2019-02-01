@@ -783,13 +783,18 @@ Thursday January 17, 2019
 
     2. Worked on UROP funding proposal.
 
+Friday February 1, 2019
+-----------------------
+
+    1. Zoomed with Katy about to-dos and cinder cone project.
+
+    2. Marked ChalkCliffs_20180917 images.
+
+        a. Completed all markers. 
+
 
 Priority List
 =============
-
-Photoscan Processing Order
---------------------------
-1. 9/17
 
 Top Priorities
 --------------
