@@ -799,6 +799,17 @@ Friday February 8, 2019
 
     2. Worked on UROP funding proposal.
 
+Friday February 22, 2019
+------------------------
+
+    1. Met with Katy to discuss "natural experiments" and Landlab project for next week.
+
+    2. Created excel spreadsheet to track potential field sites, age, location, climate, pros/cons of site.
+
+    3. Searched for field sites.
+
+    4. Began reading Greg's paper on natural experiments.
+
 Priority List
 =============
 
