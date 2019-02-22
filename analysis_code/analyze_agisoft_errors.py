@@ -142,7 +142,7 @@ p = (ggplot(df, aes(x='Point',
     + ylim(0, None)
     + ggtitle("Error (m) of Each Ground Control Point")
     + xlab("Number of Ground Control Points Used")
-    + ylab("Check Point Error (m)")
+    + ylab("Root Mean Squared Error (m)")
     + facet_wrap("~GCP", nrow=4)
     + theme_bw(base_size=14))
 

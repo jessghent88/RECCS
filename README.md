@@ -790,8 +790,14 @@ Friday February 1, 2019
 
     2. Marked ChalkCliffs_20180917 images.
 
-        a. Completed all markers. 
+        a. Completed all markers.
 
+Friday February 8, 2019
+-----------------------
+
+    1. Searched for field sites for cinder cone project.
+
+    2. Worked on UROP funding proposal.
 
 Priority List
 =============
@@ -825,9 +831,7 @@ Top Priorities
 Secondary Priorities
 --------------------
 
-1. Look into UROP and potential projects/professors to do thesis with.
-
-2. Literature review on cinder cone geomorphology.
+1. Literature review on cinder cone geomorphology.
     a. Starting papers includes
 
     Dohrenwend, John C., et al, "Degradation of quaternary cinder cones in the Cima volcanic field, Mojave Desert, California." Geological Society of America Bulletin 97 (1986): 421-427.
