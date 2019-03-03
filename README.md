@@ -810,6 +810,23 @@ Friday February 22, 2019
 
     4. Began reading Greg's paper on natural experiments.
 
+Friday March 1, 2019
+--------------------
+
+    1. Continued reading Greg's paper.
+
+    2. Met with Katy to discuss Landlab/modeling papers.
+
+    3. Began reading Hobley paper on Landlab.
+
+    4. Met with Katy.
+
+        a. Overview of types of models and uses.
+
+        b. Updated Python and installed Landlab on my laptop.
+
+        c. Intro to Landlab and tutorials.
+
 Priority List
 =============
 
