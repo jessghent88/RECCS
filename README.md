@@ -827,6 +827,32 @@ Friday March 1, 2019
 
         c. Intro to Landlab and tutorials.
 
+Friday March 8, 2019
+--------------------
+
+    1. Read Landlab tutorials.
+
+    2. Researched field sites for cinder cone project.
+
+Friday March 15, 2019
+---------------------
+
+    1. Read Landlab tutorials.
+
+        a. Practiced fault scarp example through Jupyter Notebook.
+
+Friday March 22, 2019
+---------------------
+
+    1. Attended Rachel's defense.
+
+Friday April 4, 2019
+--------------------
+
+    1. Researched potential field sites for cinder cone project.
+
+    2. Worked on Powerpoint for natural experiment presentation.
+
 Priority List
 =============
 
