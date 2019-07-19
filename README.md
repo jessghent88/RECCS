@@ -853,6 +853,52 @@ Friday April 4, 2019
 
     2. Worked on Powerpoint for natural experiment presentation.
 
+Monday July 15, 2019
+--------------------
+
+    1. Researched mines on active volcanoes.
+
+    2. Examined Google Earth for signs of deterioration in mine on Sugarloaf.
+
+    3. Worked on fixing loop in Jupyter Notebook (JN).
+
+Tuesday July 16, 2019
+---------------------
+
+    1. Continued loop chapter on DataCamp.
+
+    2. Noah's defense.
+
+    3. Worked on fixing loop in JN.
+
+Wednesday July 17, 2019
+-----------------------
+
+    1. Fixed loop in JN.
+
+        a. Now includes command to plot data but excludes command to show plot. Plot only appears once with all ten iterations as desired.
+
+    2. Edited plot to practice data visualization skills.
+
+    3. Continued function chapter on DataCamp.
+
+    4. Researched mines on active volcanoes.
+
+Thursday July 18, 2019
+----------------------
+
+    1. Completed function chapter on DataCamp.
+
+    2. Explored meaning of generalization of functions in preparation for part B of Cinder Cone Task 2.
+
+    3. Updated README.
+
+    4. Began new JN for CCT2.
+
+        a. Converted necessary items from instructions into LaTeX.
+
+    5. Met with Katy to discuss new derivations and generalizing function.
+
 Priority List
 =============
 
