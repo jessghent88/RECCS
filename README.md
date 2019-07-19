@@ -759,7 +759,7 @@ Thursday January 17, 2019
 
         b. Katy will email with stereo imagery info.
 
-  Friday January 18, 2019
+Friday January 18, 2019
   -----------------------
 
     1. Finished marking ChalkCliffs_20180702 images.
@@ -774,7 +774,7 @@ Thursday January 17, 2019
 
         a. Completed markers for RD1, RD2, RD3, RD4, RD5, RD6, RD7, DT1, DT2.
 
-  Friday January 25, 2019
+Friday January 25, 2019
   -----------------------
 
     1. Finished marking ChalkCliffs_20180730 images.
