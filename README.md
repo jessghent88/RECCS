@@ -648,12 +648,12 @@ Friday November 30, 2018
 Friday December 7, 2018
 -----------------------
 
-Out of office to take final exams.
+    Out of office to take final exams.
 
 Friday December 14, 2018
 ------------------------
 
-Out of office attending AGU.
+    Out of office attending AGU.
 
 Wednesday December 19, 2018
 ---------------------------
