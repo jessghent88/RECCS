@@ -899,6 +899,14 @@ Thursday July 18, 2019
 
     5. Met with Katy to discuss new derivations and generalizing function.
 
+Friday July 19, 2019
+--------------------
+    1. Converted variables in JN CCT2 to Python from LaTeX.
+
+    2. Began chapter 2 of course 3 in python programming track in DC.
+
+    3. Began deriving new equations for CCT2.
+
 Priority List
 =============
 
