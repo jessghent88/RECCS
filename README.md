@@ -865,7 +865,7 @@ Monday July 15, 2019
 Tuesday July 16, 2019
 ---------------------
 
-    1. Continued loop chapter on DataCamp.
+    1. Continued course 2, chapter 4 ( loops) on DC.
 
     2. Noah's defense.
 
@@ -903,9 +903,22 @@ Friday July 19, 2019
 --------------------
     1. Converted variables in JN CCT2 to Python from LaTeX.
 
-    2. Began chapter 2 of course 3 in python programming track in DC.
+    2. Began course 3, chapter 2 in DC python track.
 
     3. Began deriving new equations for CCT2.
+
+Monday July 22, 2019
+--------------------
+
+    1. Completed DC course 3 - Python Data Science Toolbox Pt 1.
+
+        a. Completed chapter 2 - Default Args, Variable-length Args, Scope.
+
+        b. Completed chapter 3 - Lambda Fxns, Error Handling.
+
+    2. Continued DC course 2 - Intermediate Python for DS.
+
+        a. Began DC course 2, chap 5 - Case Study Hacker Statistics.
 
 Priority List
 =============
