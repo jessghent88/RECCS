@@ -910,7 +910,7 @@ Friday July 19, 2019
 Monday July 22, 2019
 --------------------
 
-    1. Completed DC course 3 - Python Data Science Toolbox Pt 1.
+    1. Completed DC course 3 - Python Data Science Toolbox 1.
 
         a. Completed chapter 2 - Default Args, Variable-length Args, Scope.
 
@@ -918,7 +918,20 @@ Monday July 22, 2019
 
     2. Continued DC course 2 - Intermediate Python for DS.
 
-        a. Began DC course 2, chap 5 - Case Study Hacker Statistics.
+        a. Began chapter 5 - Case Study Hacker Statistics.
+
+Tuesday July 23, 2019
+---------------------
+
+    1. Completed DC course 2.
+
+        a. Completed chapter 5.
+
+    2. Began DC course 4 - Python Data Science Toolbox 2.
+
+        a. Completed chapter 1 - Using Iterators in PythonLand
+
+        b. Began chapter 2 - List Comprehensions and Generators.
 
 Priority List
 =============
