@@ -948,6 +948,11 @@ Wednesday July 24, 2019
 
         b. Course 2.
 
+Thursday July 25, 2019
+----------------------
+
+    1. Practiced DC exercises for courses 1-4.
+
 Priority List
 =============
 
