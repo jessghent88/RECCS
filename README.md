@@ -933,6 +933,21 @@ Tuesday July 23, 2019
 
         b. Began chapter 2 - List Comprehensions and Generators.
 
+Wednesday July 24, 2019
+-----------------------
+
+    1. Completed DC course 4.
+
+        a. Completed chapter 2.
+
+        b. Completed chapter 3.
+
+    2. Practiced DC exercises.
+
+        a. Course 1.
+
+        b. Course 2.
+
 Priority List
 =============
 
