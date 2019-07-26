@@ -953,6 +953,10 @@ Thursday July 25, 2019
 
     1. Practiced DC exercises for courses 1-4.
 
+    2. Met with Greg to discuss derivation.
+
+    3. Worked on deriving z(r) and finding r_max.
+
 Priority List
 =============
 
